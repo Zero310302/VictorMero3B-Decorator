@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Decorator.ComponenteHelado">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ComponenteHelado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.HeladoVaso">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeladoVaso.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.HeladoPaleta">
+    <Position X="4" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeladoPaleta.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.HeladoCono">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeladoCono.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.HeladoDecorador">
+    <Position X="7.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>HeladoDecorador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.Frutas">
+    <Position X="5.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Frutas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.Galletas">
+    <Position X="9.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Galletas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Decorator.Chispas">
+    <Position X="7.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Chispas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
